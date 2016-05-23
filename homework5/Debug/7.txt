@@ -1,0 +1,2 @@
+https%3A%2F%2Fgithub.com%2Fk1dave6412%2FCPP%2Fblob%2Fmaster%2FHomeWork5%2FHomeWork5%2FMYHeader.h
+https%3A%2F%2Fgithub.com%2Fk1dave6412%2FCPP%2Fblob%2Fmaster%2FHomeWork5%2FHomeWork5%2Fheaderfunc.cpp
